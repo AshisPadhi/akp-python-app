@@ -1,2 +1,1 @@
-# akp-python-app
-sample python app to test ci/cd using GitHub workflow
+python sample app to test ci/cd using github actions
