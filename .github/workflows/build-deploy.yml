@@ -31,7 +31,7 @@ jobs:
 
     - name: Build Docker image
       run: |
-        docker build -t your_username/your_image .
+        docker build -t aspadhi/python-build .
       shell: bash
 
     - name: Push Docker image
